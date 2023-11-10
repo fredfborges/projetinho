@@ -96,14 +96,14 @@ button:hover {
 
 /* Header ============================== */
 header {
-  background-color: #2d4a22;
+  background-color: rgb(236, 92, 116);
   padding: 2rem 0 10rem;
   text-align: center;
 }
 
-#logo {
+h1 {
   color: #fff;
-  font-weight: 100;
+  font-weight: 500;
 }
 
 /* Balance ============================== */
@@ -253,6 +253,7 @@ input {
 /* Footer ============================== */
 footer {
   text-align: center;
+  color: rgb(233, 59, 88);
 }
 
 /* Responsive ============================== */
